@@ -12,5 +12,5 @@ tag = "v1"
 new_classes = ["WeatherMCP"]
 
 [[routes]]
-pattern = "weathermcp.haerttric.dev/*"
+pattern = "weathermcp.haerttric.dev"
 custom_domain = true
