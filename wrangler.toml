@@ -9,8 +9,8 @@ class_name = "WeatherMCP"
 
 [[migrations]]
 tag = "v1"
-new_classes = ["WeatherMCP"]
+new_sqlite_classes = ["WeatherMCP"]
 
 [[routes]]
-pattern = "weathermcp.haerttric.dev"
+pattern = "weathermcp.haerttrich.dev"
 custom_domain = true
